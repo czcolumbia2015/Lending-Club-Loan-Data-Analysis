@@ -1,4 +1,4 @@
-##Remove all columns with large missing value
+##Remove all columns with large number of missing value
 NA_cols = c('earliest_cr_line','mths_since_last_delinq','mths_since_last_record','mths_since_last_major_derog',
            'annual_inc_joint','dti_joint','open_acc_6m','open_il_6m','open_il_12m','open_il_24m','mths_since_rcnt_il',
            'total_bal_il','il_util','open_rv_12m','open_rv_24m','max_bal_bc','all_util','inq_fi','total_cu_tl',
